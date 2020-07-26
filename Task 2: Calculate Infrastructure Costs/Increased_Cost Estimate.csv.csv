@@ -1,0 +1,18 @@
+Group hierarchy,Region,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+My Estimate,US East (N. Virginia),Amazon Route 53,0,237.15,2845.8,USD,"Hosted Zones (1), Basic Checks Within AWS (1), Number of Elastic Network Interfaces (2)"
+My Estimate,US East (N. Virginia),Elastic Load Balancing,0,147.83,1773.96,USD,"Number of Network Load Balancers (1), Processed bytes per NLB for TCP (30 GB per hour), Average number of new TCP connections (100 per second), Average TCP connection duration (3 minutes)"
+My Estimate,US East (N. Virginia),Elastic Load Balancing,0,191.63,2299.56,USD,Number of Application Load Balancers (1)
+My Estimate,US East (N. Virginia),Amazon EC2,0,9297.31,111567.72,USD,"Operating system (Linux), Quantity (6), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (1 TB), Instance type (m4.16xlarge)"
+My Estimate,US East (N. Virginia),Amazon RDS for MySQL,0,8146.552,97758.62,USD,"Quantity (2), Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (1 TB), Instance type (db.m5.12xlarge)"
+My Estimate,US East (N. Virginia),S3 Standard,0,2.39,28.68,USD,S3 Standard storage (100 GB per month)
+My Estimate,US East (N. Virginia),Data Transfer,0,0,0,USD,Data Transfer
+My Estimate,US East (N. Virginia),Amazon Virtual Private Cloud (VPC),0,73,876,USD,Number of Site-to-Site VPN Connections (2)
+My Estimate,US East (N. Virginia),Amazon Elastic IP,0,0,0,USD,"Number of EC2 instances (4), Number of EIPs per instance (1), Number of EIP remaps (0)"
+My Estimate,US East (N. Virginia),Amazon CodeGuru Reviewer,0,93.75,1125,USD,"Number of developers in your team or organization (50), Average pull requests submitted by one developer in one month (10), Average files included in one pull request (2), Average lines of code (LOC) in one file (20), Average revisions created for each pull request (2), Average lines of code in subsequent revision of pull request (5)"
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+I added 2 additional EC2 instances that could be deployed in a different AZ to add redundancy,,,,,,,
+I upgraded the EC2 and RDS instances for improve performance,,,,,,,
