@@ -7,7 +7,7 @@ Plan and provision a cost-effective AWS infrastructure for a new social media ap
 ![Udacity_Diagram_1](Task1/Udacity_Diagram_1.png)
 ### Part 2
 Plan a SERVERLESS architecture schematic for a new application development project. 
-![Udacity_Diagram_2](Task3/Udacity_Diagram_2.png)
+![Udacity_Diagram_2](Task1/Udacity_Diagram_2.png)
 
 ## Task 2: Calculate Infrastructure Costs
 
