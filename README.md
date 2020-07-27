@@ -4,9 +4,10 @@ Set of projects to plan, design, provision, and monitor infrastructure in AWS us
 ## Task 1: Create AWS Architecture Schematics
 ### Part 1
 Plan and provision a cost-effective AWS infrastructure for a new social media application development project for 50,000 single-region users. 
-
+![Udacity_Diagram_1](Task1/Udacity_Diagram_1.png)
 ### Part 2
 Plan a SERVERLESS architecture schematic for a new application development project. 
+![Udacity_Diagram_2](Task3/Udacity_Diagram_2.png)
 
 ## Task 2: Calculate Infrastructure Costs
 
