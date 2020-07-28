@@ -1,13 +1,14 @@
 Group hierarchy,Region,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
-My Estimate,US East (N. Virginia),Amazon Route 53,0,0.9,10.80,USD,Hosted Zones (1)
-My Estimate,US East (N. Virginia),Elastic Load Balancing,0,20.81,249.72,USD,"Number of Network Load Balancers (1), Processed bytes per NLB for TCP (1 GB per hour), Average number of new TCP connections (100 per second), Average TCP connection duration (3 minutes)"
-My Estimate,US East (N. Virginia),Elastic Load Balancing,0,22.27,267.24,USD,Number of Application Load Balancers (1)
-My Estimate,US East (N. Virginia),Amazon EC2,0,140.48,1685.76,USD,"Operating system (Linux), Quantity (4), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (30 GB), Instance type (m1.small)"
-My Estimate,US East (N. Virginia),Amazon RDS for MySQL,0,570.32,6843.84,USD,"Quantity (2), Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (1 TB)"
-My Estimate,US East (N. Virginia),S3 Standard,0,0.78,9.36,USD,S3 Standard storage (30 GB per month)
+My Estimate,US East (N. Virginia),Amazon Route 53,0,237.15,2845.80,USD,"Hosted Zones (1), Basic Checks Within AWS (1), Number of Elastic Network Interfaces (2)"
+My Estimate,US East (N. Virginia),Elastic Load Balancing,0,147.83,1773.96,USD,"Number of Network Load Balancers (1), Processed bytes per NLB for TCP (30 GB per hour), Average number of new TCP connections (100 per second), Average TCP connection duration (3 minutes)"
+My Estimate,US East (N. Virginia),Elastic Load Balancing,0,191.63,2299.56,USD,Number of Application Load Balancers (1)
+My Estimate,US East (N. Virginia),Amazon EC2,0,4118.4,49420.80,USD,"Operating system (Linux), Quantity (6), Storage for each EC2 instance (General Purpose SSD (gp2)), Storage amount (1 TB), Instance type (m4.4xlarge)"
+My Estimate,US East (N. Virginia),Amazon RDS for MySQL,0,4465.6,53587.20,USD,"Quantity (2), Storage for each RDS instance (General Purpose SSD (gp2)), Storage amount (1 TB), Instance type (db.m5.4xlarge)"
+My Estimate,US East (N. Virginia),S3 Standard,0,2.39,28.68,USD,S3 Standard storage (100 GB per month)
 My Estimate,US East (N. Virginia),Data Transfer,0,0,0.00,USD," Inbound (from: Not selected) 0 TB per month 
  Outbound (to: Not selected) 0 TB per month 
 "
+My Estimate,US East (N. Virginia),Amazon Virtual Private Cloud (VPC),0,73,876.00,USD,Number of Site-to-Site VPN Connections (2)
 
 
 
