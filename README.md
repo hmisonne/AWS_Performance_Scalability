@@ -18,8 +18,6 @@ Update the AWS password policy.
 Create a Group named CloudTrailAdmins and give it the two CloudTrail privileges.
 Configure a user named CloudTrail. Assign CloudTrail to the CloudTrailAdmins group
 
-![UdacityCloudTrailLog](Task3/UdacityCloudTrailLog.png)
-
 ## Task 4: Set up Cost Monitoring
 ![CloudWatch_alarm](Task4/CloudWatch_alarm.png)
 
